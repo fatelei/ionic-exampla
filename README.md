@@ -1,2 +1,4 @@
-# ionic-exampla
+# ionic-example
 ionic example
+
++ todo
